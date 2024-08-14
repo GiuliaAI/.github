@@ -17,6 +17,3 @@ Innovare il panorama dell'intrattenimento digitale italiano con esperienze unich
 - [GitHub](https://github.com/GiuliaAI)
 - [Twitch](https://twitch.tv/GiuliaAI)
 - [Instagram](https://instagram.com/GiuliaAIofficial)
----
-
-Grazie per la visita! Se vuoi contribuire o saperne di più, visita i link sopra.
